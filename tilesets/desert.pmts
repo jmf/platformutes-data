@@ -1,0 +1,6 @@
+1) img:desert/sand; 
+2) img:desert/sandstone;
+3) img:desert/spikes; hurt:1; solid:0;
+4) img:desert/cactus; solid:0;
+5) img:desert/cactus_top; solid:0;
+6) img:desert/column; solid:0;
