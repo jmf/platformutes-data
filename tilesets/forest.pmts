@@ -1,6 +1,9 @@
-1) img:forest/ground
-2) img:forest/mushroom; light:2; solid:0;
-3) img:forest/spikes; hurt:1; solid:0;
-4) img:forest/tree; solid:0;
-5) img:forest/leafes; solid:0;
-6) img:forest/cave; solid:0;
+1) img:forest/grass; 
+2) img:forest/ground;
+3) img:forest/rock;
+4) img:forest/mushroom; solid:0;
+5) img:forest/spikes; hurt:1; solid:0;
+6) img:forest/tree; solid:0;
+7) img:forest/leafes; solid:0;
+8) img:forest/cave; solid:0; shading:true;
+9) img:forest/cave-mushroom; light:2; solid:0; shading:true;
