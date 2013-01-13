@@ -22,6 +22,12 @@
 [8]
 	sprite:
 	scripted;
-	img:common.beam&beam;
+	img:common.lvlchange&shaft;
 	on_contact:
 		level.load_next();
+[9]
+	img:bed_l;
+	solid:0;
+[10]
+	img:bed_r;
+	solid:0;
