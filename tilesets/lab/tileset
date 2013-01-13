@@ -5,5 +5,4 @@
 5) img:door_bottom; solid:0;
 6) img:door_top_closed;
 7) img:door_bottom_closed;
-
-
+8) sprite: scripted; img:common.beam&beam; on_contact: level.load_next();

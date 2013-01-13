@@ -3,6 +3,19 @@ platformutes-data
 
 Data for platformutes platformer by Zeg9.
 
+-Tilesets:
+*cavern adds a cave 
+*desert adds desert and desert ruins
+*forest, adds a forest
+*lab, adds a laboratory and portals
+*pyramid, adds a pyramid and mummies
+
+-Levels
+*Test levels for the tilesets with the same name as the tileset
+*level1 and level2 to demonstrate switching levels, both using lab tileset
+
+INSTALLATION
+
 Copy this data to platformutes/data. It will add tilesets and levels.
 
 ----
