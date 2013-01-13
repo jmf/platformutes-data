@@ -1,7 +1,7 @@
-1) img:cavern/rock; 
-2) img:cavern/stalactite; solid:0;
-3) img:cavern/stalagmite; hurt:1; solid:0;
-4) img:cavern/cave_mushroom; solid:0;
-5) img:cavern/lamp; solid:0;
-6) img:cavern/lamp_in_rock;
-7) img:cavern/crystal; solid:0;
+1) img:rock; 
+2) img:stalactite; solid:0;
+3) img:stalagmite; hurt:1; solid:0;
+4) img:cave_mushroom; solid:0;
+5) img:lamp; solid:0;
+6) img:lamp_in_rock;
+7) img:crystal; solid:0;
