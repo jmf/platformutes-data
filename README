@@ -1,7 +1,7 @@
 platformutes-data
 =================
 
-Data for platformutes platformer by Zeg9.
+Additional tilesets and levels for platformutes platformer by Zeg9.
 
 -Tilesets:
 *cavern adds a cave 
@@ -10,12 +10,16 @@ Data for platformutes platformer by Zeg9.
 *lab, adds a laboratory and portals
 *pyramid, adds a pyramid and mummies
 
--Levels
-*Test levels for the tilesets with the same name as the tileset
-*level1 and level2 to demonstrate switching levels, both using lab tileset
+-Demo Levels
+*Tileset demo levels in "tiles_demo"
+*Level change demo in "beam_demo"
+
+-Normal Levels
+*Curse of the pharaoh in "pyramid"
+
+
 
 INSTALLATION
-
 Copy this data to platformutes/data. It will add tilesets and levels.
 
 ----
