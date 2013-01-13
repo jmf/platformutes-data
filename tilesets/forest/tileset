@@ -1,9 +1,28 @@
-1) img:grass; 
-2) img:ground;
-3) img:rock;
-4) img:mushroom; solid:0;
-5) img:spikes; hurt:1; solid:0;
-6) img:tree; solid:0;
-7) img:leafes; solid:0;
-8) img:cave; solid:0; shading:true;
-9) img:cave-mushroom; light:2; solid:0; shading:true;
+[1]
+	img:grass;
+[2]
+	img:ground;
+[3]
+	img:rock;
+[4]
+	img:mushroom;
+	solid:0;
+[5]
+	img:spikes;
+	hurt:1;
+	solid:0;
+[6]
+	img:tree;
+	solid:0;
+[7]
+	img:leafes;
+	solid:0;
+[8]
+	img:cave;
+	solid:0;
+	shading:true;
+[9]
+	img:cave-mushroom;
+	light:2;
+	solid:0;
+	shading:true;
