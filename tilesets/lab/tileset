@@ -20,8 +20,7 @@
 [7]
 	img:door_bottom_closed;
 [8]
-	sprite:
-	scripted;
+	sprite:scripted;
 	img:common.lvlchange&shaft;
 	on_contact:
 		level.load_next();
@@ -31,3 +30,8 @@
 [10]
 	img:bed_r;
 	solid:0;
+[11]
+	img:key;
+	solid:0;
+	on_contact:
+		level.set_tile(0,0,0)
