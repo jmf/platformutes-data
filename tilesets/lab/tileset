@@ -20,8 +20,8 @@
 [7]
 	img:door_bottom_closed;
 [8]
-	sprite:scripted;
-	img:common.lvlchange&shaft;
+	img:shaft;
+	solid:0;
 	on_contact:
 		level.load_next();
 [9]
